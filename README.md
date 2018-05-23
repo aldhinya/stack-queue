@@ -1,1 +1,3 @@
-# stack-and-queue
+## Stack and Queue C++
+
+@ajisubarkah
